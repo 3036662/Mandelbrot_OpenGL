@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1664116274 source:/home/aleh/Gl2/Gl2/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1664116274 /home/aleh/Gl2/include/glad/glad.h
+	<KHR/khrplatform.h>
+
+1664116274 /home/aleh/Gl2/include/KHR/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1664265902 source:/home/aleh/Gl2/Gl2/main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<Mandelbrot.h>
+
+1657836683 /home/aleh/Gl2/include/GLFW/glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<GL/glext.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1664188712 source:/home/aleh/Gl2/Gl2/complex.cpp
+
+1664220114 /home/aleh/Gl2/include/complex.hpp
+
+1664265953 source:/home/aleh/Gl2/src/Mandelbrot.cpp
+	"Mandelbrot.h"
+	<complex.hpp>
+	<iostream>
+
+1664220898 /home/aleh/Gl2/include/Mandelbrot.h
+	<vector>
+	<cstddef>
+
+1664221325 source:/home/aleh/Gl2/src/complex.cpp
+	<cmath>
+	<complex.hpp>
+
